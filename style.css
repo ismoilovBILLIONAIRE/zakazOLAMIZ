@@ -72,9 +72,13 @@ p {
 /* SOCIAL */
 .social-icons {
   display: flex;
-  gap: 10px;
+  align-items: center;
+  gap: 12px;
 }
-
+social-tg{
+  display: flex;
+  align-items: center;
+}
 .social-icons a {
   border: 2px solid #fff;
   border-radius: 50%;
@@ -95,7 +99,7 @@ p {
   width: 20px;
 }
 .social-tg img {
-  width: 100px;
+  width: 26px;
 }
 
 /* IMAGES */
